@@ -1,0 +1,18 @@
+body {
+    background-color: blue;
+    font-family: Anonymous Pro;
+    font-size: 17.1px;
+}
+
+h1, p {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    size: 25px;
+}
+
+a {
+    color: white;
+}
